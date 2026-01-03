@@ -13,7 +13,7 @@ services:
     environment:
       # - trace_level=info
       # - worker_num=5
-      - server_uri=https://xxxxxxxx.com
+      - server_uri=https://safariadventureriders.com
       # - reverse_proxy=true
       - tg_bot_token=xxxxxxxxxx:xxxxxxxxxxxxxx_xxxxxxxxxxxxxxxxxxxx
       - tg_api_id=xxxxxxxx
