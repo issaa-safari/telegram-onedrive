@@ -9,7 +9,7 @@ services:
       # - /path/to/*.crt:/ssl/server.crt
       # - /path/to/*.key:/ssl/server.key
     ports:
-      - xxxx:8080
+      - 8080:8080
     environment:
       # - trace_level=info
       # - worker_num=5
